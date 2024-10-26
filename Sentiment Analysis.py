@@ -6,7 +6,7 @@ import nltk  # Natural Language Toolkit for NLP-related operations
 import pickle  # For saving models and data
 
 # Load the dataset
-dataset = pd.read_csv(r"C:\Users\91939\Desktop\AI&DS\Data science projects\NLP Projects\SentimentAnalysis-NLP,ML\Restaurant_Reviews.tsv", delimiter='\t', quoting=3)
+dataset = pd.read_csv(r"C:\Users\91939\Desktop\AI&DS\Data science projects\NLP Projects\SentimentAnalysis-NLP,ML\data\Restaurant_Reviews.tsv", delimiter='\t', quoting=3)
 
 
 # Downloading English stopwords
