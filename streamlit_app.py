@@ -41,7 +41,7 @@ for name in ['Decision Tree', 'K-Nearest Neighbors', 'Logistic Regression',
         classifiers[name] = pickle.load(file)
 
 # Load reviews data for word clouds
-reviews_df = pd.read_csv(r"C:\Users\91939\Desktop\AI&DS\Data science projects\NLP Projects\SentimentAnalysis-NLP,ML\Restaurant_Reviews.tsv", delimiter='\t', quoting=3)
+reviews_df = pd.read_csv(r"C:\Users\91939\Desktop\AI&DS\Data science projects\NLP Projects\SentimentAnalysis-NLP,ML\Restaurant_Reviews.tsv", sep='\t')
 
 # Sidebar for model selection
 st.sidebar.title("Choose Classifier")
