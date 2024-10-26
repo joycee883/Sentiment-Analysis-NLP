@@ -62,3 +62,4 @@ The Sentiment Analysis App is versatile and can be applied in multiple contexts:
 
 
 Try out the Sentiment Analysis App and explore different models for real-time sentiment predictions!
+https://sentimentanalysis-jb4hbmzlbnp9vartmdtykq.streamlit.app/
