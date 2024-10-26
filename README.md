@@ -61,5 +61,6 @@ The Sentiment Analysis App is versatile and can be applied in multiple contexts:
 * Visualization Over Time: Enabling insights into evolving sentiment trends. <br>
 
 
-Try out the Sentiment Analysis App and explore different models for real-time sentiment predictions!
+Try out the Sentiment Analysis App and explore different models for real-time sentiment predictions! <br>
+Discover the Live App here <br>
 https://sentimentanalysis-jb4hbmzlbnp9vartmdtykq.streamlit.app/
