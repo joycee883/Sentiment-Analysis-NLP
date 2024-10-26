@@ -6,4 +6,3 @@ matplotlib
 seaborn
 wordcloud
 scikit-learn
-pickle
