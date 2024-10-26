@@ -1,5 +1,9 @@
 streamlit
 pandas
 numpy
+nltk
+matplotlib
+seaborn
+wordcloud
 scikit-learn
-nltk      
+pickle
